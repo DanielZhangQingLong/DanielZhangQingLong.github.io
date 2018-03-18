@@ -1,38 +1,33 @@
 ---
-title: Hello World
+title: Why I blog?
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
 
-### Create a new post
+## About Me
 
-``` bash
-$ hexo new "My New Post"
-```
+I am Daniel, a programmer from China. Most of my work is web development, and my favourite programming language is Ruby. I love Jpop. My favourite band is Ikimonogakari(いきものがかり), their music is amazing! For pure music, I enjoy guitar fingerstyle. I have a guitar which is Yamaha LL16 ARE but I hardly ever play it. I love gaming and I have game consoles like Nintendo Switch, Playstation 4 and Xbox one.
 
-More info: [Writing](https://hexo.io/docs/writing.html)
 
-### Run server
+## Why I blog?
 
-``` bash
-$ hexo server
-```
+### Reason #1: Recall some things
+ Actually, I hope my life could be recorded. I want to get out of my comfort zones. I recall my last 5-year work life and I realize that a lot of things disappeared from my memory.  Everyday life is boringa and I am like zombie because it is like the same day.
 
-More info: [Server](https://hexo.io/docs/server.html)
+### Reason #2: Make my life more organized
+I ofen make things messy! I often waste plenty of time due to no plans. Also, this happens to my knowledges. I think they are out of order. If I can write down what I have learnt recently, I will keep my knowledges well-organized so that I will have a deeper understanding about them!
 
-### Generate static files
+### Reason #3: Pratise expressing in English
+This is a selfish reason. I have a strong willing to work in another country and spoken English is a must! Now, I can almost understand what native English speakers talk but I cannot express myself in English well. So from beginning I just write very simple and naive english, as time goes by, I will get great progress.
 
-``` bash
-$ hexo generate
-```
+### Reason #4: Employers can learn about me better
+In this blog, I will post some tutorials about what I have learnt and my understanding over a period of time. These tutorials can help others, help myself and the employers.
 
-More info: [Generating](https://hexo.io/docs/generating.html)
 
-### Deploy to remote sites
+## What in this blog?
 
-``` bash
-$ hexo deploy
-```
+This blog is not only focusing on programming technologies, but on some interesting things like games, travel, music and so on. I don't want this blog to be too utilitarian.
 
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+> The picture below is my Nintendo Switch. I highly recommend it. Especially Labo.
+
+![](/images/img_switch.jpg)
